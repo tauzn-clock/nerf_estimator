@@ -20,11 +20,11 @@
   </include>
 
   <!-- Load the URDF into the ROS Parameter Server -->
-  <param name="robot_description"
+  <param name="camera_description"
     command="$(find xacro)/xacro '$(find nerf_simulation)/urdf/camera.xacro'" />
 
   <!-- Run a python script to the send a service call to gazebo_ros to spawn a URDF robot -->
   <node name="urdf_camera_spawner" pkg="gazebo_ros" type="spawn_model" respawn="false" output="screen"
-    args="-urdf -model camera -param robot_description"/>
-
+    args="-urdf -model camera -param camera_description"/>
+    
 </launch>

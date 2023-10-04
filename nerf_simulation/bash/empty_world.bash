@@ -1,5 +1,5 @@
-roslaunch nerf_simulation empty_world.launch
+roslaunch nerf_simulation empty_world.launch &
 sleep 5
-roslaunch jackal_gazebo spawn_jackal.launch :x:=0.5 :y:=0.5
+roslaunch jackal_gazebo spawn_jackal.launch x:=2 y:=2 &
 sleep 5
-roslaunch jackal_viz view_robot.launch
+roslaunch nerf_simulation camera_rviz.launch
