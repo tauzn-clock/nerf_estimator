@@ -1,0 +1,4 @@
+{
+    "camera_frame" : "camera_link_optical",
+    "robot_frame" : "base_link"
+}
