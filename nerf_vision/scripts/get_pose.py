@@ -8,7 +8,7 @@ import tf
 def main():
     #Take a config file as parameter
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config", type=str)
+    parser.add_argument("--config", type=str, help="Name of the config file")
     args = parser.parse_args()
     config_file = args.config
 

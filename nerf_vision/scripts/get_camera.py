@@ -4,6 +4,9 @@ from sensor_msgs.msg import Image
 from cv_bridge import CvBridge
 import cv2
 
+def detect_robot(frame):
+
+
 def callback(data):
     # Convert ROS image to OpenCV image
     bridge = CvBridge()
@@ -16,7 +19,7 @@ def callback(data):
 def main():
     # Get the camera topic name during runtime
     parser = argparse.ArgumentParser()
-    parser.add_argument("--camera_topic", type=str)
+    parser.add_argument("--camera_topic", type=str, help="Name of the camera topic")
     args = parser.parse_args()
     camera_topic = args.camera_topic
 
