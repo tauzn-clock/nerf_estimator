@@ -2,21 +2,7 @@ import argparse
 import tf2_ros
 import rospy
 import json
-
-def get_transformation(source_frame, target_frame,
-                       tf_cache_duration=2.0):
-    tf_buffer = tf2_ros.Buffer(rospy.Duration(tf_cache_duration))
-    tf2_ros.TransformListener(tf_buffer)
-
-    # get the tf at first available time
-    try:
-        transformation = tf_buffer.lookup_transform(target_frame,
-                source_frame, rospy.Time(0), rospy.Duration(0.1))
-    except (tf2_ros.LookupException, tf2_ros.ConnectivityException,
-            tf2_ros.ExtrapolationException):
-        rospy.logerr('Unable to find the transformation from %s to %s'
-                     % source_frame, target_frame)
-    return transformation
+import tf2_geometry_msgs 
 
 def main():
     #Take a config file as parameter
@@ -36,8 +22,14 @@ def main():
     
     print("Camera Frame: ", camera_frame)
     print("Robot Frame: ", robot_frame)
+    print("--------------------")
 
-    tfBuffer = tf2_ros.Buffer()
-    listener = tf2_ros.TransformListener(tfBuffer)
+    rospy.init_node('tf2_listener')
+    while True:
+        tfBuffer = tf2_ros.Buffer(rospy.Duration(2.0))  # tf buffer length
+        tf2_ros.TransformListener(tfBuffer)
+        print(tfBuffer.lookup_transform(camera_frame, robot_frame, rospy.Time(0), rospy.Duration(0.1)))
+        rospy.sleep(0.2)
+
 if __name__ == "__main__":
     main()
