@@ -28,9 +28,9 @@ def main():
     rospy.init_node('tf2_listener')
     while True:
         #Create a tf buffer and listener to get the transform
-        tfBuffer = tf2_ros.Buffer(rospy.Duration(1000.0))
+        tfBuffer = tf2_ros.Buffer(rospy.Duration(1200.0)) #tf buffer length
         tf2_ros.TransformListener(tfBuffer)
-        currentTf = tfBuffer.lookup_transform(camera_frame, robot_frame, rospy.Time(0), rospy.Duration(0.1)).transform
+        currentTf = tfBuffer.lookup_transform(camera_frame, robot_frame, rospy.Time(0), rospy.Duration(102)).transform
 
         #Transform from quaternion to euler
         xyz = [currentTf.translation.x, currentTf.translation.y, currentTf.translation.z]
@@ -39,8 +39,6 @@ def main():
         
         print("xyz: ", xyz)
         print("rpy: ", rpy)
-
-        rospy.sleep(0.2)
 
 if __name__ == "__main__":
     main()
