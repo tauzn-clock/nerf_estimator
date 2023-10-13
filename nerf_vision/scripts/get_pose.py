@@ -6,25 +6,6 @@ import tf2_geometry_msgs
 import tf
 
 def main():
-    #Take a config file as parameter
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--config", type=str, help="Name of the config file")
-    args = parser.parse_args()
-    config_file = args.config
-
-    #Read the config file as a json
-    camera_frame = ""
-    robot_frame = ""
-
-    with open(config_file) as f:
-        config_dict = json.load(f)
-        camera_frame = config_dict["camera_frame"]
-        robot_frame = config_dict["robot_frame"]
-    
-    print("Camera Frame: ", camera_frame)
-    print("Robot Frame: ", robot_frame)
-    print("--------------------")
-
     rospy.init_node('tf2_listener')
     while True:
         #Create a tf buffer and listener to get the transform
@@ -41,4 +22,22 @@ def main():
         print("rpy: ", rpy)
 
 if __name__ == "__main__":
+        #Take a config file as parameter
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-c", type=str, help="Name of the config file")
+    args = parser.parse_args()
+    config_file = args.c
+
+    #Read the config file as a json
+    camera_frame = ""
+    robot_frame = ""
+
+    with open(config_file) as f:
+        config_dict = json.load(f)
+        camera_frame = config_dict["camera_frame"]
+        robot_frame = config_dict["robot_frame"]
+    
+    print("Camera Frame: ", camera_frame)
+    print("Robot Frame: ", robot_frame)
+    print("--------------------")
     main()

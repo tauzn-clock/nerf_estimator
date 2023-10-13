@@ -1,5 +1,6 @@
 import argparse
 import rospy
+import json
 from sensor_msgs.msg import Image
 from cv_bridge import CvBridge
 import cv2
@@ -14,12 +15,6 @@ def callback(data):
     cv2.waitKey(1)
 
 def main():
-    # Get the camera topic name during runtime
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--camera_topic", type=str, help="Name of the camera topic")
-    args = parser.parse_args()
-    camera_topic = args.camera_topic
-
     # Initialize the ROS node
     rospy.init_node("camera_py")
 
@@ -30,4 +25,20 @@ def main():
     rospy.spin()
 
 if __name__ == "__main__":
+    # Get the camera topic name during runtime
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-c", type=str, help="Name of the config file")    
+    args = parser.parse_args()
+    config_file = args.c
+
+    #Read the config file as a json
+    camera_topic = ""
+
+    with open(config_file) as f:
+        config_dict = json.load(f)
+        camera_topic = config_dict["camera_topic"]
+
+    print("Camera Topic: ", camera_topic)
+    print("--------------------")
+
     main()
