@@ -1,14 +1,15 @@
+import sys
+import os
+sys.path.append(os.path.dirname(__file__))
+from nerf_vision_utils import getCameraTopicAsCvImage
 import argparse
 import rospy
 import json
 from sensor_msgs.msg import Image
-from cv_bridge import CvBridge
 import cv2
 
 def callback(data):
-    # Convert ROS image to OpenCV image
-    bridge = CvBridge()
-    cv_image = bridge.imgmsg_to_cv2(data, "bgr8")
+    cv_image = getCameraTopicAsCvImage(data)
 
     # Display the image
     cv2.imshow("Camera", cv_image)

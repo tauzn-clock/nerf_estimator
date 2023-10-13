@@ -1,4 +1,5 @@
 {
+    "move_base_frame": "odom",
     "camera_topic" : "/camera/camera1/image_raw",
     "camera_frame" : "camera_link_optical",
     "robot_frame" : "base_link"
