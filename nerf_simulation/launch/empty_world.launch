@@ -6,8 +6,8 @@
   <arg name="gui" default="true"/>
   <arg name="headless" default="false"/>
   <arg name="debug" default="false"/>
-  <arg name="x" default="0.5"/> <!--Jackal x-pose-->
-  <arg name="y" default="0.5"/> <!--Jackal y-pose-->
+  <arg name="x" default="0"/> <!--Jackal x-pose-->
+  <arg name="y" default="0"/> <!--Jackal y-pose-->
 
   <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
