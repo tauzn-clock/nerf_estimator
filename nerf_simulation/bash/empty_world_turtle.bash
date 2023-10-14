@@ -1,6 +1,6 @@
 # Get the location of the script
 map_location="$(dirname "$0")/../maps"
-echo map_location
+echo $map_location
 export TURTLEBOT3_MODEL=burger
 export LDS_MODEL=LDS-01
 roslaunch nerf_simulation empty_world.launch &
