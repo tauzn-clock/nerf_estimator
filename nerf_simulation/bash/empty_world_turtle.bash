@@ -1,5 +1,5 @@
 # Get the location of the script
-map_location="$(realpath "${BASH_SOURCE[0]}")../maps"
+map_location="$(realpath "${BASH_SOURCE[0]}")/../maps"
 echo $map_location
 export TURTLEBOT3_MODEL=burger
 export LDS_MODEL=LDS-01
