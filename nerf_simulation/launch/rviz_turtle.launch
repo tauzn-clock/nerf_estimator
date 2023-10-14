@@ -1,0 +1,39 @@
+<launch>
+  <!-- Arguments -->
+  <arg name="model" default="$(env TURTLEBOT3_MODEL)" doc="model type [burger, waffle, waffle_pi]"/>
+  <arg name="map_file" default="$(find turtlebot3_navigation)/maps/map.yaml"/>
+  <arg name="open_rviz" default="true"/>
+  <arg name="move_forward_only" default="false"/>
+
+  <!-- Turtlebot3 -->
+  <include file="$(find turtlebot3_bringup)/launch/turtlebot3_remote.launch">
+    <arg name="model" value="$(arg model)" />
+  </include>
+
+  <!-- Map server -->
+  <node pkg="map_server" name="map_server" type="map_server" args="$(arg map_file)"/>
+
+  <!-- AMCL -->
+  <include file="$(find turtlebot3_navigation)/launch/amcl.launch"/>
+
+  <!-- move_base -->
+  <include file="$(find turtlebot3_navigation)/launch/move_base.launch">
+    <arg name="model" value="$(arg model)" />
+    <arg name="move_forward_only" value="$(arg move_forward_only)"/>
+  </include>
+
+  <!-- Define relative tf of frames-->
+  <node pkg="tf2_ros" type="static_transform_publisher" name="odom_tf" args="0 0 0 0 0 0 odom world" />
+  <node pkg="tf2_ros" type="static_transform_publisher" name="camera_link_tf" args="0 0 0 0 0 0 world camera_link" />
+  <node pkg="tf2_ros" type="static_transform_publisher" name="camera_link_optical_tf" args="0 0 2 0.5236 0 0.7854 world camera_link_optical" /> <!--WARNING: SET THIS TO THE SAME VALUES AS camra_joint in camera.xacro-->
+
+  <!-- Load the URDF into the ROS Parameter Server -->
+  <param name="robot_description"
+    command="$(find xacro)/xacro '$(find nerf_simulation)/urdf/camera.xacro'" />
+
+  <!-- Combine joint values -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"/>
+
+  <!-- Show in Rviz   -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find nerf_simulation)/launch/camera_jackal.rviz"/>
+</launch>
