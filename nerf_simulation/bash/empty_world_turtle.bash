@@ -11,5 +11,6 @@ roslaunch nerf_simulation empty_world.launch &
 sleep 5
 roslaunch nerf_simulation spawn_turtle.launch &
 sleep 5
-roslaunch nerf_simulation rviz_turtle.launch map_file:=$map_location/blank_map.yaml &
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$map_location/map.yaml &
 sleep 5
+roslaunch nerf_simulation rviz_turtle.launch
