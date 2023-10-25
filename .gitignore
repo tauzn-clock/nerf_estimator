@@ -1,2 +1,3 @@
 .vscode
 nerf_vision/data/
+**/__pycache__/
