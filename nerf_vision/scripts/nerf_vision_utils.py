@@ -43,7 +43,7 @@ def getRobotPose(camera_frame, robot_frame, buffer_length=1200.0, timeout=102):
     :param robot_frame: robot frame name
     :param buffer_length: tf buffer length
     :param timeout: tf timeout
-    :return: xyz, rpy
+    :return: xyz, q
     """
     #Create a tf buffer and listener to get the transform
     tfBuffer = tf2_ros.Buffer(rospy.Duration(buffer_length)) #tf buffer length
@@ -53,6 +53,5 @@ def getRobotPose(camera_frame, robot_frame, buffer_length=1200.0, timeout=102):
     #Transform from quaternion to euler
     xyz = [currentTf.translation.x, currentTf.translation.y, currentTf.translation.z]
     q = [currentTf.rotation.x, currentTf.rotation.y, currentTf.rotation.z, currentTf.rotation.w]
-    rpy = tf.transformations.euler_from_quaternion(q)
 
-    return xyz, rpy
+    return xyz, q
