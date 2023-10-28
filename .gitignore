@@ -2,3 +2,4 @@
 nerf_vision/data/
 **/__pycache__/
 nerf_vision/processed
+nerf_vision/targets
