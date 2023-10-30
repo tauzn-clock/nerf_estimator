@@ -3,7 +3,7 @@
   <!-- Define relative tf of frames-->
   <node pkg="tf2_ros" type="static_transform_publisher" name="odom_tf" args="0 0 0 0 0 0 odom world" />
   <node pkg="tf2_ros" type="static_transform_publisher" name="camera_link_tf" args="0 0 0 0 0 0 world camera_link" />
-  <node pkg="tf2_ros" type="static_transform_publisher" name="camera_link_optical_tf" args="0 0 2 0.5236 0 0.7854 world camera_link_optical" /> <!--WARNING: SET THIS TO THE SAME VALUES AS camra_joint in camera.xacro-->
+  <node pkg="tf2_ros" type="static_transform_publisher" name="camera_link_optical_tf" args="0 0 2 0 0.5236 0 world camera_link_optical" /> <!--WARNING: SET THIS TO THE SAME VALUES AS camra_joint in camera.xacro-->
 
   <!-- Load the URDF into the ROS Parameter Server -->
   <param name="robot_description"
