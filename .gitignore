@@ -3,3 +3,7 @@ nerf_vision/data/
 **/__pycache__/
 nerf_vision/processed
 nerf_vision/targets
+yolo_model/robotflow_api.key
+yolo_model/jackal_detection-2
+yolo_model/runs/
+yolo_model/yolov8n.pt
