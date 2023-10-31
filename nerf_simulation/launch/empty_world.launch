@@ -1,5 +1,8 @@
 <launch>
 
+  <!-- Add Gazebo Model Path-->
+  <env name="GAZEBO_MODEL_PATH" value="$(find nerf_simulation)/models"/>
+
   <!-- these are the arguments you can pass this launch file, for example paused:=true -->
   <arg name="paused" default="false"/>
   <arg name="use_sim_time" default="true"/>
