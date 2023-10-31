@@ -8,4 +8,9 @@
       <uri>model://sun</uri>
     </include>
   </world>
+
+  <!-- Slow down simulation time-->
+  <physics name="default_physics" default="true" type="ode">
+    <real_time_factor>0.33</real_time_factor>
+  </physics>
 </sdf>
