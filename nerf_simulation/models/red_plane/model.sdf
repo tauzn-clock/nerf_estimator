@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<sdf version="1.4">
+<sdf version="1.7">
 <model name="red_plane">
   <static>true</static>
     <link name="link">
@@ -31,7 +31,7 @@
           <script>
             <uri>model://red_plane/materials/scripts</uri>
             <uri>model://red_plane/materials/textures/</uri>
-            <name>RedPlane/Image</name>
+            <name>RedPlane</name>
           </script>
         </material>
       </visual>
