@@ -5,6 +5,6 @@ echo $DIR
 yolo task=detect \
 mode=train \
 model=yolov8n.pt \
-data= $DIR/jackal_detection-3/data.yaml \
+data= $DIR/jackal_detection-4/data.yaml \
 epochs=100 \
 imgsz=640
