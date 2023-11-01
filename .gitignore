@@ -5,5 +5,7 @@ nerf_vision/processed
 nerf_vision/targets
 yolo_model/robotflow_api.key
 yolo_model/jackal_detection*
+yolo_model/jackal_segmentation*
 yolo_model/runs/
 yolo_model/yolov8n.pt
+yolo_model/yolov8n-seg.pt
