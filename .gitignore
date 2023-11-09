@@ -10,3 +10,4 @@ yolo_model/runs/
 yolo_model/yolov8n.pt
 yolo_model/yolov8n-seg.pt
 nerf_vision/processed_vanilla
+blender/data
