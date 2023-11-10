@@ -44,7 +44,7 @@ for frame in transforms['frames']:
     transform_matrix = np.asarray(frame['transform_matrix'])
     xyz = transform_matrix[:3, 3]
     rpy = transform_matrix[:3, :3]
-    rpy = Rotation.from_matrix(rpy).as_euler('xyz')
+    rpy = Rotation.from_matrix(rpy).as_euler('xyz', degrees=False)
 
     set_camera(camera_name, xyz, rpy)
 
