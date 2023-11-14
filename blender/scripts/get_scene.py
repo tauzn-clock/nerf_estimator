@@ -19,7 +19,7 @@ FILE_PATH = os.path.realpath(__file__)
 FILE_PATH = FILE_PATH.split('/')
 FILE_PATH = '/'.join(FILE_PATH[:-3])
 
-DATA_PATH = os.path.join(FILE_PATH, 'data/one_spin')
+DATA_PATH = os.path.join(FILE_PATH, 'data/hemisphere')
 print(DATA_PATH)
 
 # Get transform
@@ -35,10 +35,15 @@ bpy.context.scene.render.image_settings.file_format = 'PNG'
 # Set camera paramerters
 
 camera_name = 'Camera'
-bpy.data.objects[camera_name].data.lense = transforms['fl_x']
-bpy.data.objects[camera_name].data.sensor_height = pixel_height * transforms['h']
-bpy.data.objects[camera_name].data.sensor_width = pixel_width * transforms['w']
+bpy.data.objects[camera_name].data.lens = transforms['focal_length']
+bpy.data.objects[camera_name].data.sensor_height = transforms["pixel_height"] * transforms["h"]
+bpy.data.objects[camera_name].data.sensor_width = transforms["pixel_width"] * transforms["w"]
 
+OUTPUT_FILE = os.path.join(DATA_PATH, "output.txt")
+with open(OUTPUT_FILE,'w') as f:
+    f.write("Angle:" + str(bpy.data.objects[camera_name].data.angle) + "\n")
+    f.write("Angle X:" + str(bpy.data.objects[camera_name].data.angle_x) + "\n")
+    f.write("Angle Y:" + str(bpy.data.objects[camera_name].data.angle_y) + "\n")
 
 for frame in transforms['frames']:
     file_path = os.path.join(DATA_PATH, frame['file_path'])
