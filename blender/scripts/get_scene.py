@@ -35,8 +35,9 @@ bpy.context.scene.render.image_settings.file_format = 'PNG'
 # Set camera paramerters
 
 camera_name = 'Camera'
-bpy.data.objects[camera_name].data.angle_x = transforms['fl_x']
-bpy.data.objects[camera_name].data.angle_y = transforms['fl_y']
+bpy.data.objects[camera_name].data.lense = transforms['fl_x']
+bpy.data.objects[camera_name].data.sensor_height = pixel_height * transforms['h']
+bpy.data.objects[camera_name].data.sensor_width = pixel_width * transforms['w']
 
 
 for frame in transforms['frames']:
