@@ -19,7 +19,7 @@ FILE_PATH = os.path.realpath(__file__)
 FILE_PATH = FILE_PATH.split('/')
 FILE_PATH = '/'.join(FILE_PATH[:-3])
 
-DATA_PATH = os.path.join(FILE_PATH, 'data/hemisphere')
+DATA_PATH = os.path.join(FILE_PATH, 'data/5_spins_with_noise')
 print(DATA_PATH)
 
 # Get transform
@@ -48,6 +48,13 @@ with open(OUTPUT_FILE,'w') as f:
 for frame in transforms['frames']:
     file_path = os.path.join(DATA_PATH, frame['file_path'])
     transform_matrix = np.asarray(frame['transform_matrix'])
+    noise_matrix = np.eye(4)
+    noise_matrix[0, 3] = np.random.normal(0, 1)
+    noise_matrix[1, 3] = np.random.normal(0, 1)
+    noise_matrix[2, 3] = np.random.normal(0, 0.01)
+    noise_matrix[:3, :3] = Rotation.from_rotvec(np.array([0, 0, 1]) * np.random.normal(0, 0.1)).as_matrix()
+    transform_matrix = np.matmul(noise_matrix, transform_matrix)
+
     xyz = transform_matrix[:3, 3]
     rpy = transform_matrix[:3, :3]
     rpy = Rotation.from_matrix(rpy).as_euler('xyz', degrees=False)
