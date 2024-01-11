@@ -13,6 +13,7 @@ def set_camera(camera_name, xyz, rpy):
 light_name = 'Light'
 bpy.data.objects[light_name].location = (0,0,2)
 bpy.data.objects[light_name].rotation_euler = (0,0,0)
+bpy.data.objects[light_name].power = 2.1
 
 # Set data path
 FILE_PATH = os.path.realpath(__file__)
@@ -23,7 +24,7 @@ DATA_PATH = os.path.join(FILE_PATH, 'data/5_spins_with_noise')
 print(DATA_PATH)
 
 # Get transform
-with open(os.path.join(DATA_PATH, 'transforms.json'), 'r') as f:
+with open(os.path.join(DATA_PATH, 'ground_truth.json'), 'r') as f:
     transforms = json.load(f)
 
 
