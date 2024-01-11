@@ -10,8 +10,8 @@ def set_camera(camera_name, xyz, rpy):
     bpy.data.objects[camera_name].rotation_euler = rpy
 
 # Set light
-light_name = 'Ceiling'
-bpy.data.objects[light_name].location = (0,0,40)
+light_name = 'Light'
+bpy.data.objects[light_name].location = (0,0,2)
 bpy.data.objects[light_name].rotation_euler = (0,0,0)
 
 # Set data path
@@ -48,12 +48,6 @@ with open(OUTPUT_FILE,'w') as f:
 for frame in transforms['frames']:
     file_path = os.path.join(DATA_PATH, frame['file_path'])
     transform_matrix = np.asarray(frame['transform_matrix'])
-    noise_matrix = np.eye(4)
-    noise_matrix[0, 3] = np.random.normal(0, 1)
-    noise_matrix[1, 3] = np.random.normal(0, 1)
-    noise_matrix[2, 3] = np.random.normal(0, 0.01)
-    noise_matrix[:3, :3] = Rotation.from_rotvec(np.array([0, 0, 1]) * np.random.normal(0, 0.1)).as_matrix()
-    transform_matrix = np.matmul(noise_matrix, transform_matrix)
 
     xyz = transform_matrix[:3, 3]
     rpy = transform_matrix[:3, :3]
