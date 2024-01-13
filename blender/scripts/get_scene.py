@@ -11,7 +11,7 @@ def set_camera(camera_name, xyz, rpy):
 
 # Set light
 light_name = 'Light'
-bpy.data.objects[light_name].location = (0,0,2)
+bpy.data.objects[light_name].location = (0,0,2.5)
 bpy.data.objects[light_name].rotation_euler = (0,0,0)
 bpy.data.objects[light_name].data.energy = 50
 
@@ -20,7 +20,7 @@ FILE_PATH = os.path.realpath(__file__)
 FILE_PATH = FILE_PATH.split('/')
 FILE_PATH = '/'.join(FILE_PATH[:-3])
 
-DATA_PATH = os.path.join(FILE_PATH, 'data/5_spins_with_noise')
+DATA_PATH = os.path.join(FILE_PATH, 'data/jackal_training_data_1')
 print(DATA_PATH)
 
 # Get transform
