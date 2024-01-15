@@ -1,0 +1,12 @@
+names:
+- jackal
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: jackal_detection
+  url: https://universe.roboflow.com/r-9gshg/jackal_detection/dataset/6
+  version: 6
+  workspace: r-9gshg
+test: test/images
+train: train/images
+val: valid/images
