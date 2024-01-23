@@ -38,7 +38,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/0.png"
         },
         {
             "file_path": "images/1.png",
@@ -67,7 +68,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/1.png"
         },
         {
             "file_path": "images/2.png",
@@ -96,7 +98,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/2.png"
         },
         {
             "file_path": "images/3.png",
@@ -125,7 +128,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/3.png"
         },
         {
             "file_path": "images/4.png",
@@ -154,7 +158,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/4.png"
         },
         {
             "file_path": "images/5.png",
@@ -183,7 +188,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/5.png"
         },
         {
             "file_path": "images/6.png",
@@ -212,7 +218,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/6.png"
         },
         {
             "file_path": "images/7.png",
@@ -241,7 +248,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/7.png"
         },
         {
             "file_path": "images/8.png",
@@ -270,7 +278,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/8.png"
         },
         {
             "file_path": "images/9.png",
@@ -299,7 +308,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/9.png"
         },
         {
             "file_path": "images/10.png",
@@ -328,7 +338,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/10.png"
         },
         {
             "file_path": "images/11.png",
@@ -357,7 +368,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/11.png"
         },
         {
             "file_path": "images/12.png",
@@ -386,7 +398,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/12.png"
         },
         {
             "file_path": "images/13.png",
@@ -415,7 +428,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/13.png"
         },
         {
             "file_path": "images/14.png",
@@ -444,7 +458,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/14.png"
         },
         {
             "file_path": "images/15.png",
@@ -473,7 +488,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/15.png"
         },
         {
             "file_path": "images/16.png",
@@ -502,7 +518,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/16.png"
         },
         {
             "file_path": "images/17.png",
@@ -531,7 +548,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/17.png"
         },
         {
             "file_path": "images/18.png",
@@ -560,7 +578,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/18.png"
         },
         {
             "file_path": "images/19.png",
@@ -589,7 +608,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/19.png"
         },
         {
             "file_path": "images/20.png",
@@ -618,7 +638,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/20.png"
         },
         {
             "file_path": "images/21.png",
@@ -647,7 +668,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/21.png"
         },
         {
             "file_path": "images/22.png",
@@ -676,7 +698,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/22.png"
         },
         {
             "file_path": "images/23.png",
@@ -705,7 +728,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/23.png"
         },
         {
             "file_path": "images/24.png",
@@ -734,7 +758,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/24.png"
         },
         {
             "file_path": "images/25.png",
@@ -763,7 +788,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/25.png"
         },
         {
             "file_path": "images/26.png",
@@ -792,7 +818,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/26.png"
         },
         {
             "file_path": "images/27.png",
@@ -821,7 +848,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/27.png"
         },
         {
             "file_path": "images/28.png",
@@ -850,7 +878,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/28.png"
         },
         {
             "file_path": "images/29.png",
@@ -879,7 +908,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/29.png"
         },
         {
             "file_path": "images/30.png",
@@ -908,7 +938,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/30.png"
         },
         {
             "file_path": "images/31.png",
@@ -937,7 +968,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/31.png"
         },
         {
             "file_path": "images/32.png",
@@ -966,7 +998,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/32.png"
         },
         {
             "file_path": "images/33.png",
@@ -995,7 +1028,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/33.png"
         },
         {
             "file_path": "images/34.png",
@@ -1024,7 +1058,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/34.png"
         },
         {
             "file_path": "images/35.png",
@@ -1053,7 +1088,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/35.png"
         },
         {
             "file_path": "images/36.png",
@@ -1082,7 +1118,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/36.png"
         },
         {
             "file_path": "images/37.png",
@@ -1111,7 +1148,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/37.png"
         },
         {
             "file_path": "images/38.png",
@@ -1140,7 +1178,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/38.png"
         },
         {
             "file_path": "images/39.png",
@@ -1169,7 +1208,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/39.png"
         },
         {
             "file_path": "images/40.png",
@@ -1198,7 +1238,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/40.png"
         },
         {
             "file_path": "images/41.png",
@@ -1227,7 +1268,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/41.png"
         },
         {
             "file_path": "images/42.png",
@@ -1256,7 +1298,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/42.png"
         },
         {
             "file_path": "images/43.png",
@@ -1285,7 +1328,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/43.png"
         },
         {
             "file_path": "images/44.png",
@@ -1314,7 +1358,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/44.png"
         },
         {
             "file_path": "images/45.png",
@@ -1343,7 +1388,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/45.png"
         },
         {
             "file_path": "images/46.png",
@@ -1372,7 +1418,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/46.png"
         },
         {
             "file_path": "images/47.png",
@@ -1401,7 +1448,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/47.png"
         },
         {
             "file_path": "images/48.png",
@@ -1430,7 +1478,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/48.png"
         },
         {
             "file_path": "images/49.png",
@@ -1459,7 +1508,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/49.png"
         },
         {
             "file_path": "images/50.png",
@@ -1488,7 +1538,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/50.png"
         },
         {
             "file_path": "images/51.png",
@@ -1517,7 +1568,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/51.png"
         },
         {
             "file_path": "images/52.png",
@@ -1546,7 +1598,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/52.png"
         },
         {
             "file_path": "images/53.png",
@@ -1575,7 +1628,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/53.png"
         },
         {
             "file_path": "images/54.png",
@@ -1604,7 +1658,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/54.png"
         },
         {
             "file_path": "images/55.png",
@@ -1633,7 +1688,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/55.png"
         },
         {
             "file_path": "images/56.png",
@@ -1662,7 +1718,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/56.png"
         },
         {
             "file_path": "images/57.png",
@@ -1691,7 +1748,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/57.png"
         },
         {
             "file_path": "images/58.png",
@@ -1720,7 +1778,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/58.png"
         },
         {
             "file_path": "images/59.png",
@@ -1749,7 +1808,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/59.png"
         },
         {
             "file_path": "images/60.png",
@@ -1778,7 +1838,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/60.png"
         },
         {
             "file_path": "images/61.png",
@@ -1807,7 +1868,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/61.png"
         },
         {
             "file_path": "images/62.png",
@@ -1836,7 +1898,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/62.png"
         },
         {
             "file_path": "images/63.png",
@@ -1865,7 +1928,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/63.png"
         },
         {
             "file_path": "images/64.png",
@@ -1894,7 +1958,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/64.png"
         },
         {
             "file_path": "images/65.png",
@@ -1923,7 +1988,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/65.png"
         },
         {
             "file_path": "images/66.png",
@@ -1952,7 +2018,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/66.png"
         },
         {
             "file_path": "images/67.png",
@@ -1981,7 +2048,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/67.png"
         },
         {
             "file_path": "images/68.png",
@@ -2010,7 +2078,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/68.png"
         },
         {
             "file_path": "images/69.png",
@@ -2039,7 +2108,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/69.png"
         },
         {
             "file_path": "images/70.png",
@@ -2068,7 +2138,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/70.png"
         },
         {
             "file_path": "images/71.png",
@@ -2097,7 +2168,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/71.png"
         },
         {
             "file_path": "images/72.png",
@@ -2126,7 +2198,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/72.png"
         },
         {
             "file_path": "images/73.png",
@@ -2155,7 +2228,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/73.png"
         },
         {
             "file_path": "images/74.png",
@@ -2184,7 +2258,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/74.png"
         },
         {
             "file_path": "images/75.png",
@@ -2213,7 +2288,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/75.png"
         },
         {
             "file_path": "images/76.png",
@@ -2242,7 +2318,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/76.png"
         },
         {
             "file_path": "images/77.png",
@@ -2271,7 +2348,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/77.png"
         },
         {
             "file_path": "images/78.png",
@@ -2300,7 +2378,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/78.png"
         },
         {
             "file_path": "images/79.png",
@@ -2329,7 +2408,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/79.png"
         },
         {
             "file_path": "images/80.png",
@@ -2358,7 +2438,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/80.png"
         },
         {
             "file_path": "images/81.png",
@@ -2387,7 +2468,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/81.png"
         },
         {
             "file_path": "images/82.png",
@@ -2416,7 +2498,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/82.png"
         },
         {
             "file_path": "images/83.png",
@@ -2445,7 +2528,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/83.png"
         },
         {
             "file_path": "images/84.png",
@@ -2474,7 +2558,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/84.png"
         },
         {
             "file_path": "images/85.png",
@@ -2503,7 +2588,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/85.png"
         },
         {
             "file_path": "images/86.png",
@@ -2532,7 +2618,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/86.png"
         },
         {
             "file_path": "images/87.png",
@@ -2561,7 +2648,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/87.png"
         },
         {
             "file_path": "images/88.png",
@@ -2590,7 +2678,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/88.png"
         },
         {
             "file_path": "images/89.png",
@@ -2619,7 +2708,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/89.png"
         },
         {
             "file_path": "images/90.png",
@@ -2648,7 +2738,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/90.png"
         },
         {
             "file_path": "images/91.png",
@@ -2677,7 +2768,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/91.png"
         },
         {
             "file_path": "images/92.png",
@@ -2706,7 +2798,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/92.png"
         },
         {
             "file_path": "images/93.png",
@@ -2735,7 +2828,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/93.png"
         },
         {
             "file_path": "images/94.png",
@@ -2764,7 +2858,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/94.png"
         },
         {
             "file_path": "images/95.png",
@@ -2793,7 +2888,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/95.png"
         },
         {
             "file_path": "images/96.png",
@@ -2822,7 +2918,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/96.png"
         },
         {
             "file_path": "images/97.png",
@@ -2851,7 +2948,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/97.png"
         },
         {
             "file_path": "images/98.png",
@@ -2880,7 +2978,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/98.png"
         },
         {
             "file_path": "images/99.png",
@@ -2909,7 +3008,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/99.png"
         },
         {
             "file_path": "images/100.png",
@@ -2938,7 +3038,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/100.png"
         },
         {
             "file_path": "images/101.png",
@@ -2967,7 +3068,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/101.png"
         },
         {
             "file_path": "images/102.png",
@@ -2996,7 +3098,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/102.png"
         },
         {
             "file_path": "images/103.png",
@@ -3025,7 +3128,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/103.png"
         },
         {
             "file_path": "images/104.png",
@@ -3054,7 +3158,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/104.png"
         },
         {
             "file_path": "images/105.png",
@@ -3083,7 +3188,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/105.png"
         },
         {
             "file_path": "images/106.png",
@@ -3112,7 +3218,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/106.png"
         },
         {
             "file_path": "images/107.png",
@@ -3141,7 +3248,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/107.png"
         },
         {
             "file_path": "images/108.png",
@@ -3170,7 +3278,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/108.png"
         },
         {
             "file_path": "images/109.png",
@@ -3199,7 +3308,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/109.png"
         },
         {
             "file_path": "images/110.png",
@@ -3228,7 +3338,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/110.png"
         },
         {
             "file_path": "images/111.png",
@@ -3257,7 +3368,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/111.png"
         },
         {
             "file_path": "images/112.png",
@@ -3286,7 +3398,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/112.png"
         },
         {
             "file_path": "images/113.png",
@@ -3315,7 +3428,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/113.png"
         },
         {
             "file_path": "images/114.png",
@@ -3344,7 +3458,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/114.png"
         },
         {
             "file_path": "images/115.png",
@@ -3373,7 +3488,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/115.png"
         },
         {
             "file_path": "images/116.png",
@@ -3402,7 +3518,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/116.png"
         },
         {
             "file_path": "images/117.png",
@@ -3431,7 +3548,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/117.png"
         },
         {
             "file_path": "images/118.png",
@@ -3460,7 +3578,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/118.png"
         },
         {
             "file_path": "images/119.png",
@@ -3489,7 +3608,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/119.png"
         },
         {
             "file_path": "images/120.png",
@@ -3518,7 +3638,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/120.png"
         },
         {
             "file_path": "images/121.png",
@@ -3547,7 +3668,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/121.png"
         },
         {
             "file_path": "images/122.png",
@@ -3576,7 +3698,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/122.png"
         },
         {
             "file_path": "images/123.png",
@@ -3605,7 +3728,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/123.png"
         },
         {
             "file_path": "images/124.png",
@@ -3634,7 +3758,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/124.png"
         },
         {
             "file_path": "images/125.png",
@@ -3663,7 +3788,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/125.png"
         },
         {
             "file_path": "images/126.png",
@@ -3692,7 +3818,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/126.png"
         },
         {
             "file_path": "images/127.png",
@@ -3721,7 +3848,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/127.png"
         },
         {
             "file_path": "images/128.png",
@@ -3750,7 +3878,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/128.png"
         },
         {
             "file_path": "images/129.png",
@@ -3779,7 +3908,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/129.png"
         },
         {
             "file_path": "images/130.png",
@@ -3808,7 +3938,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/130.png"
         },
         {
             "file_path": "images/131.png",
@@ -3837,7 +3968,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/131.png"
         },
         {
             "file_path": "images/132.png",
@@ -3866,7 +3998,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/132.png"
         },
         {
             "file_path": "images/133.png",
@@ -3895,7 +4028,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/133.png"
         },
         {
             "file_path": "images/134.png",
@@ -3924,7 +4058,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/134.png"
         },
         {
             "file_path": "images/135.png",
@@ -3953,7 +4088,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/135.png"
         },
         {
             "file_path": "images/136.png",
@@ -3982,7 +4118,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/136.png"
         },
         {
             "file_path": "images/137.png",
@@ -4011,7 +4148,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/137.png"
         },
         {
             "file_path": "images/138.png",
@@ -4040,7 +4178,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/138.png"
         },
         {
             "file_path": "images/139.png",
@@ -4069,7 +4208,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/139.png"
         },
         {
             "file_path": "images/140.png",
@@ -4098,7 +4238,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/140.png"
         },
         {
             "file_path": "images/141.png",
@@ -4127,7 +4268,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/141.png"
         },
         {
             "file_path": "images/142.png",
@@ -4156,7 +4298,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/142.png"
         },
         {
             "file_path": "images/143.png",
@@ -4185,7 +4328,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/143.png"
         },
         {
             "file_path": "images/144.png",
@@ -4214,7 +4358,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/144.png"
         },
         {
             "file_path": "images/145.png",
@@ -4243,7 +4388,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/145.png"
         },
         {
             "file_path": "images/146.png",
@@ -4272,7 +4418,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/146.png"
         },
         {
             "file_path": "images/147.png",
@@ -4301,7 +4448,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/147.png"
         },
         {
             "file_path": "images/148.png",
@@ -4330,7 +4478,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/148.png"
         },
         {
             "file_path": "images/149.png",
@@ -4359,7 +4508,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/149.png"
         },
         {
             "file_path": "images/150.png",
@@ -4388,7 +4538,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/150.png"
         },
         {
             "file_path": "images/151.png",
@@ -4417,7 +4568,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/151.png"
         },
         {
             "file_path": "images/152.png",
@@ -4446,7 +4598,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/152.png"
         },
         {
             "file_path": "images/153.png",
@@ -4475,7 +4628,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/153.png"
         },
         {
             "file_path": "images/154.png",
@@ -4504,7 +4658,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/154.png"
         },
         {
             "file_path": "images/155.png",
@@ -4533,7 +4688,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/155.png"
         },
         {
             "file_path": "images/156.png",
@@ -4562,7 +4718,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/156.png"
         },
         {
             "file_path": "images/157.png",
@@ -4591,7 +4748,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/157.png"
         },
         {
             "file_path": "images/158.png",
@@ -4620,7 +4778,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/158.png"
         },
         {
             "file_path": "images/159.png",
@@ -4649,7 +4808,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/159.png"
         },
         {
             "file_path": "images/160.png",
@@ -4678,7 +4838,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/160.png"
         },
         {
             "file_path": "images/161.png",
@@ -4707,7 +4868,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/161.png"
         },
         {
             "file_path": "images/162.png",
@@ -4736,7 +4898,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/162.png"
         },
         {
             "file_path": "images/163.png",
@@ -4765,7 +4928,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/163.png"
         },
         {
             "file_path": "images/164.png",
@@ -4794,7 +4958,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/164.png"
         },
         {
             "file_path": "images/165.png",
@@ -4823,7 +4988,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/165.png"
         },
         {
             "file_path": "images/166.png",
@@ -4852,7 +5018,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/166.png"
         },
         {
             "file_path": "images/167.png",
@@ -4881,7 +5048,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/167.png"
         },
         {
             "file_path": "images/168.png",
@@ -4910,7 +5078,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/168.png"
         },
         {
             "file_path": "images/169.png",
@@ -4939,7 +5108,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/169.png"
         },
         {
             "file_path": "images/170.png",
@@ -4968,7 +5138,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/170.png"
         },
         {
             "file_path": "images/171.png",
@@ -4997,7 +5168,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/171.png"
         },
         {
             "file_path": "images/172.png",
@@ -5026,7 +5198,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/172.png"
         },
         {
             "file_path": "images/173.png",
@@ -5055,7 +5228,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/173.png"
         },
         {
             "file_path": "images/174.png",
@@ -5084,7 +5258,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/174.png"
         },
         {
             "file_path": "images/175.png",
@@ -5113,7 +5288,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/175.png"
         },
         {
             "file_path": "images/176.png",
@@ -5142,7 +5318,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/176.png"
         },
         {
             "file_path": "images/177.png",
@@ -5171,7 +5348,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/177.png"
         },
         {
             "file_path": "images/178.png",
@@ -5200,7 +5378,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/178.png"
         },
         {
             "file_path": "images/179.png",
@@ -5229,7 +5408,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/179.png"
         },
         {
             "file_path": "images/180.png",
@@ -5258,7 +5438,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/180.png"
         },
         {
             "file_path": "images/181.png",
@@ -5287,7 +5468,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/181.png"
         },
         {
             "file_path": "images/182.png",
@@ -5316,7 +5498,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/182.png"
         },
         {
             "file_path": "images/183.png",
@@ -5345,7 +5528,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/183.png"
         },
         {
             "file_path": "images/184.png",
@@ -5374,7 +5558,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/184.png"
         },
         {
             "file_path": "images/185.png",
@@ -5403,7 +5588,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/185.png"
         },
         {
             "file_path": "images/186.png",
@@ -5432,7 +5618,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/186.png"
         },
         {
             "file_path": "images/187.png",
@@ -5461,7 +5648,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/187.png"
         },
         {
             "file_path": "images/188.png",
@@ -5490,7 +5678,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/188.png"
         },
         {
             "file_path": "images/189.png",
@@ -5519,7 +5708,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/189.png"
         },
         {
             "file_path": "images/190.png",
@@ -5548,7 +5738,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/190.png"
         },
         {
             "file_path": "images/191.png",
@@ -5577,7 +5768,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/191.png"
         },
         {
             "file_path": "images/192.png",
@@ -5606,7 +5798,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/192.png"
         },
         {
             "file_path": "images/193.png",
@@ -5635,7 +5828,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/193.png"
         },
         {
             "file_path": "images/194.png",
@@ -5664,7 +5858,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/194.png"
         },
         {
             "file_path": "images/195.png",
@@ -5693,7 +5888,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/195.png"
         },
         {
             "file_path": "images/196.png",
@@ -5722,7 +5918,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/196.png"
         },
         {
             "file_path": "images/197.png",
@@ -5751,7 +5948,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/197.png"
         },
         {
             "file_path": "images/198.png",
@@ -5780,7 +5978,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/198.png"
         },
         {
             "file_path": "images/199.png",
@@ -5809,7 +6008,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/199.png"
         },
         {
             "file_path": "images/200.png",
@@ -5838,7 +6038,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/200.png"
         },
         {
             "file_path": "images/201.png",
@@ -5867,7 +6068,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/201.png"
         },
         {
             "file_path": "images/202.png",
@@ -5896,7 +6098,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/202.png"
         },
         {
             "file_path": "images/203.png",
@@ -5925,7 +6128,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/203.png"
         },
         {
             "file_path": "images/204.png",
@@ -5954,7 +6158,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/204.png"
         },
         {
             "file_path": "images/205.png",
@@ -5983,7 +6188,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/205.png"
         },
         {
             "file_path": "images/206.png",
@@ -6012,7 +6218,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/206.png"
         },
         {
             "file_path": "images/207.png",
@@ -6041,7 +6248,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/207.png"
         },
         {
             "file_path": "images/208.png",
@@ -6070,7 +6278,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/208.png"
         },
         {
             "file_path": "images/209.png",
@@ -6099,7 +6308,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/209.png"
         },
         {
             "file_path": "images/210.png",
@@ -6128,7 +6338,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/210.png"
         },
         {
             "file_path": "images/211.png",
@@ -6157,7 +6368,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/211.png"
         },
         {
             "file_path": "images/212.png",
@@ -6186,7 +6398,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/212.png"
         },
         {
             "file_path": "images/213.png",
@@ -6215,7 +6428,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/213.png"
         },
         {
             "file_path": "images/214.png",
@@ -6244,7 +6458,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/214.png"
         },
         {
             "file_path": "images/215.png",
@@ -6273,7 +6488,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/215.png"
         },
         {
             "file_path": "images/216.png",
@@ -6302,7 +6518,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/216.png"
         },
         {
             "file_path": "images/217.png",
@@ -6331,7 +6548,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/217.png"
         },
         {
             "file_path": "images/218.png",
@@ -6360,7 +6578,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/218.png"
         },
         {
             "file_path": "images/219.png",
@@ -6389,7 +6608,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/219.png"
         },
         {
             "file_path": "images/220.png",
@@ -6418,7 +6638,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/220.png"
         },
         {
             "file_path": "images/221.png",
@@ -6447,7 +6668,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/221.png"
         },
         {
             "file_path": "images/222.png",
@@ -6476,7 +6698,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/222.png"
         },
         {
             "file_path": "images/223.png",
@@ -6505,7 +6728,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/223.png"
         },
         {
             "file_path": "images/224.png",
@@ -6534,7 +6758,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/224.png"
         },
         {
             "file_path": "images/225.png",
@@ -6563,7 +6788,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/225.png"
         },
         {
             "file_path": "images/226.png",
@@ -6592,7 +6818,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/226.png"
         },
         {
             "file_path": "images/227.png",
@@ -6621,7 +6848,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/227.png"
         },
         {
             "file_path": "images/228.png",
@@ -6650,7 +6878,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/228.png"
         },
         {
             "file_path": "images/229.png",
@@ -6679,7 +6908,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/229.png"
         },
         {
             "file_path": "images/230.png",
@@ -6708,7 +6938,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/230.png"
         },
         {
             "file_path": "images/231.png",
@@ -6737,7 +6968,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/231.png"
         },
         {
             "file_path": "images/232.png",
@@ -6766,7 +6998,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/232.png"
         },
         {
             "file_path": "images/233.png",
@@ -6795,7 +7028,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/233.png"
         },
         {
             "file_path": "images/234.png",
@@ -6824,7 +7058,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/234.png"
         },
         {
             "file_path": "images/235.png",
@@ -6853,7 +7088,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/235.png"
         },
         {
             "file_path": "images/236.png",
@@ -6882,7 +7118,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/236.png"
         },
         {
             "file_path": "images/237.png",
@@ -6911,7 +7148,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/237.png"
         },
         {
             "file_path": "images/238.png",
@@ -6940,7 +7178,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/238.png"
         },
         {
             "file_path": "images/239.png",
@@ -6969,7 +7208,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/239.png"
         },
         {
             "file_path": "images/240.png",
@@ -6998,7 +7238,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/240.png"
         },
         {
             "file_path": "images/241.png",
@@ -7027,7 +7268,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/241.png"
         },
         {
             "file_path": "images/242.png",
@@ -7056,7 +7298,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/242.png"
         },
         {
             "file_path": "images/243.png",
@@ -7085,7 +7328,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/243.png"
         },
         {
             "file_path": "images/244.png",
@@ -7114,7 +7358,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/244.png"
         },
         {
             "file_path": "images/245.png",
@@ -7143,7 +7388,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/245.png"
         },
         {
             "file_path": "images/246.png",
@@ -7172,7 +7418,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/246.png"
         },
         {
             "file_path": "images/247.png",
@@ -7201,7 +7448,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/247.png"
         },
         {
             "file_path": "images/248.png",
@@ -7230,7 +7478,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/248.png"
         },
         {
             "file_path": "images/249.png",
@@ -7259,7 +7508,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/249.png"
         },
         {
             "file_path": "images/250.png",
@@ -7288,7 +7538,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/250.png"
         },
         {
             "file_path": "images/251.png",
@@ -7317,7 +7568,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/251.png"
         },
         {
             "file_path": "images/252.png",
@@ -7346,7 +7598,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/252.png"
         },
         {
             "file_path": "images/253.png",
@@ -7375,7 +7628,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/253.png"
         },
         {
             "file_path": "images/254.png",
@@ -7404,7 +7658,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/254.png"
         },
         {
             "file_path": "images/255.png",
@@ -7433,7 +7688,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/255.png"
         },
         {
             "file_path": "images/256.png",
@@ -7462,7 +7718,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/256.png"
         },
         {
             "file_path": "images/257.png",
@@ -7491,7 +7748,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/257.png"
         },
         {
             "file_path": "images/258.png",
@@ -7520,7 +7778,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/258.png"
         },
         {
             "file_path": "images/259.png",
@@ -7549,7 +7808,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/259.png"
         },
         {
             "file_path": "images/260.png",
@@ -7578,7 +7838,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/260.png"
         },
         {
             "file_path": "images/261.png",
@@ -7607,7 +7868,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/261.png"
         },
         {
             "file_path": "images/262.png",
@@ -7636,7 +7898,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/262.png"
         },
         {
             "file_path": "images/263.png",
@@ -7665,7 +7928,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/263.png"
         },
         {
             "file_path": "images/264.png",
@@ -7694,7 +7958,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/264.png"
         },
         {
             "file_path": "images/265.png",
@@ -7723,7 +7988,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/265.png"
         },
         {
             "file_path": "images/266.png",
@@ -7752,7 +8018,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/266.png"
         },
         {
             "file_path": "images/267.png",
@@ -7781,7 +8048,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/267.png"
         },
         {
             "file_path": "images/268.png",
@@ -7810,7 +8078,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/268.png"
         },
         {
             "file_path": "images/269.png",
@@ -7839,7 +8108,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/269.png"
         },
         {
             "file_path": "images/270.png",
@@ -7868,7 +8138,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/270.png"
         },
         {
             "file_path": "images/271.png",
@@ -7897,7 +8168,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/271.png"
         },
         {
             "file_path": "images/272.png",
@@ -7926,7 +8198,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/272.png"
         },
         {
             "file_path": "images/273.png",
@@ -7955,7 +8228,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/273.png"
         },
         {
             "file_path": "images/274.png",
@@ -7984,7 +8258,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/274.png"
         },
         {
             "file_path": "images/275.png",
@@ -8013,7 +8288,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/275.png"
         },
         {
             "file_path": "images/276.png",
@@ -8042,7 +8318,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/276.png"
         },
         {
             "file_path": "images/277.png",
@@ -8071,7 +8348,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/277.png"
         },
         {
             "file_path": "images/278.png",
@@ -8100,7 +8378,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/278.png"
         },
         {
             "file_path": "images/279.png",
@@ -8129,7 +8408,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/279.png"
         },
         {
             "file_path": "images/280.png",
@@ -8158,7 +8438,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/280.png"
         },
         {
             "file_path": "images/281.png",
@@ -8187,7 +8468,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/281.png"
         },
         {
             "file_path": "images/282.png",
@@ -8216,7 +8498,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/282.png"
         },
         {
             "file_path": "images/283.png",
@@ -8245,7 +8528,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/283.png"
         },
         {
             "file_path": "images/284.png",
@@ -8274,7 +8558,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/284.png"
         },
         {
             "file_path": "images/285.png",
@@ -8303,7 +8588,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/285.png"
         },
         {
             "file_path": "images/286.png",
@@ -8332,7 +8618,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/286.png"
         },
         {
             "file_path": "images/287.png",
@@ -8361,7 +8648,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/287.png"
         },
         {
             "file_path": "images/288.png",
@@ -8390,7 +8678,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/288.png"
         },
         {
             "file_path": "images/289.png",
@@ -8419,7 +8708,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/289.png"
         },
         {
             "file_path": "images/290.png",
@@ -8448,7 +8738,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/290.png"
         },
         {
             "file_path": "images/291.png",
@@ -8477,7 +8768,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/291.png"
         },
         {
             "file_path": "images/292.png",
@@ -8506,7 +8798,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/292.png"
         },
         {
             "file_path": "images/293.png",
@@ -8535,7 +8828,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/293.png"
         },
         {
             "file_path": "images/294.png",
@@ -8564,7 +8858,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/294.png"
         },
         {
             "file_path": "images/295.png",
@@ -8593,7 +8888,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/295.png"
         },
         {
             "file_path": "images/296.png",
@@ -8622,7 +8918,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/296.png"
         },
         {
             "file_path": "images/297.png",
@@ -8651,7 +8948,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/297.png"
         },
         {
             "file_path": "images/298.png",
@@ -8680,7 +8978,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/298.png"
         },
         {
             "file_path": "images/299.png",
@@ -8709,7 +9008,8 @@
                     0.0,
                     1.0
                 ]
-            ]
+            ],
+            "mask_path": "masks/299.png"
         }
     ]
 }
