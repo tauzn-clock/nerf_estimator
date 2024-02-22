@@ -54,6 +54,16 @@ for frame in transforms['frames']:
     rpy = transform_matrix[:3, :3]
     rpy = Rotation.from_matrix(rpy).as_euler('xyz', degrees=False)
 
+    #Transform back to origin
+    inverse = np.ones(4)
+    inverse[:3,:3] = transform_matrix[:3,:3].T
+    inverse[:3,3] = -np.dot(transform_matrix[:3,:3].T, transform_matrix[:3,3])
+
+    #Translate to x = -2
+    translate = np.ones(4)
+    translate[:3,0] = -2
+
+
     set_camera(camera_name, xyz, rpy)
 
     # Render Path
