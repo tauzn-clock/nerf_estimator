@@ -94,5 +94,3 @@ for frame in transforms['frames']:
     # Render scene
     bpy.ops.render.render(write_still=True)
     
-    cnt += 1
-    if (cnt==3): break
