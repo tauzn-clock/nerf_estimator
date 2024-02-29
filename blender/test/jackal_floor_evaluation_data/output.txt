@@ -1,0 +1,4 @@
+Angle:1.0317366123199463
+Angle X:1.0317366123199463
+Angle Y:0.6175681352615356
+<bpy_struct, Collection("visual") at 0x7f21b8c48c08>
