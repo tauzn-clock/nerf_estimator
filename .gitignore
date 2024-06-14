@@ -14,3 +14,4 @@ yolo_model/yolov8n.pt
 yolo_model/yolov8n-seg.pt
 
 blender/data
+blender/blend/*.blend1
