@@ -15,3 +15,5 @@ yolo_model/yolov8n-seg.pt
 
 blender/data
 blender/blend/*.blend1
+colmap/data
+colmap/workspace
